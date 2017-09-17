@@ -1,8 +1,8 @@
 
 
 ///// Common variables /////
-env.git_repo_name="git@github.com:muthu-patil/testcrts.git" // update this value as created in Step 9 above
-env.git_id="master"  // update this value as created in Step 9 above
+env.git_repo_name="https://github.com/muthu-patil/testcrts.git" // update this value as created in Step 9 above
+env.git_id="8b156986-bfdf-4a45-80c7-549efd59edf8"  // update this value as created in Step 9 above
 
 node("master")
 {
